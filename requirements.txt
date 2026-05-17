@@ -1,0 +1,8 @@
+# VINPAVE Dependencies
+# Core dependencies (part of Python standard library - no installation needed):
+# tkinter, json, os, math, cmath, datetime, csv, threading, subprocess, tempfile, shutil, traceback, webbrowser, textwrap
+
+# Optional dependencies for advanced features:
+numpy>=1.21.0
+matplotlib>=3.5.0
+pandas>=1.3.0
