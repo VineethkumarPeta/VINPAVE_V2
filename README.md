@@ -12,6 +12,6 @@
 
 2. **Extract** - Unzip the downloaded file to any folder
 
-3. **Run** - Double-click `setup_vinpave.bat` (Windows) or run `python vinpave.py`
+3. **Run** - Double-click `vinpave.exe`
 
 > **Note:** First-time setup takes 2-3 minutes to install dependencies automatically.
